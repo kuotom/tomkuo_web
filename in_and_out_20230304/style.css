@@ -1,0 +1,15 @@
+div{
+width: 30%;
+height: 200px;
+background-color: antiquewhite;
+cursor: url(s-man.png),auto;
+}
+h1{
+    height:  50px;
+    border: 1px solid blue;
+}
+p{
+height: 30px;
+font-size: large;
+border: 1px solid red;
+}
